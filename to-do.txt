@@ -1,0 +1,18 @@
+documentation:
+	- new cook's tour
+	- update Test Infected
+update the build process
+Ant
+	Basic task
+support testing run once initialization code e.g. class Foo {{...}}
+  
+Simplify implementation of equality, and organize AssertionTest
+If a suite() returns a JUnit4TestAdapter, allow Filters and Sorters to operate on 
+  the adapted Runner.
+Theories class validation should be much better
+
+Find a way to make Parameterized a single-class extension
+Automatically add failing tests to the Known Defects section of the README.html
+assume(that()) and assert(that()) 
+
+Every time I add a Filter feature, had to add a Sorter feature. 
